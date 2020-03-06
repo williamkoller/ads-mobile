@@ -1,0 +1,11 @@
+/home/william/ads-mobile/bin/Debug/netcoreapp3.1/ads-mobile
+/home/william/ads-mobile/bin/Debug/netcoreapp3.1/ads-mobile.deps.json
+/home/william/ads-mobile/bin/Debug/netcoreapp3.1/ads-mobile.runtimeconfig.json
+/home/william/ads-mobile/bin/Debug/netcoreapp3.1/ads-mobile.runtimeconfig.dev.json
+/home/william/ads-mobile/bin/Debug/netcoreapp3.1/ads-mobile.dll
+/home/william/ads-mobile/bin/Debug/netcoreapp3.1/ads-mobile.pdb
+/home/william/ads-mobile/obj/Debug/netcoreapp3.1/ads-mobile.csprojAssemblyReference.cache
+/home/william/ads-mobile/obj/Debug/netcoreapp3.1/ads-mobile.AssemblyInfoInputs.cache
+/home/william/ads-mobile/obj/Debug/netcoreapp3.1/ads-mobile.AssemblyInfo.cs
+/home/william/ads-mobile/obj/Debug/netcoreapp3.1/ads-mobile.dll
+/home/william/ads-mobile/obj/Debug/netcoreapp3.1/ads-mobile.pdb
